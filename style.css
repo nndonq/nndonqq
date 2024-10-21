@@ -1,0 +1,47 @@
+@charset "utf-8";
+body {
+    background-color: rgba(125,177,113,0.45);
+}
+
+.container h1 marquee {
+    color: rgba(0,113,255,0.32);
+}
+
+#headingOne1 .mb-0 a {
+    color: rgba(24,134,0,1.00);
+}
+
+#headingTwo1 .mb-0 .collapsed {
+    color: rgba(152,172,7,1.00);
+}
+
+#headingThree1 .mb-0 .collapsed {
+    color: rgba(200,54,57,1.00);
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    background-image: -webkit-linear-gradient(4deg,rgba(255,255,255,1.00) 46.01%,rgba(179,243,131,1.00) 100%);
+    background-image: -moz-linear-gradient(4deg,rgba(255,255,255,1.00) 46.01%,rgba(179,243,131,1.00) 100%);
+    background-image: -o-linear-gradient(4deg,rgba(255,255,255,1.00) 46.01%,rgba(179,243,131,1.00) 100%);
+    background-image: linear-gradient(86deg,rgba(255,255,255,1.00) 46.01%,rgba(179,243,131,1.00) 100%);
+
+}
+
+#headingThree2 .mb-0 .collapsed {
+    color: rgba(146,0,255,1.00);
+}
+#accordion1 .card #cuoi {
+    background-image: -webkit-linear-gradient(183deg,rgba(255,255,255,1.00) 16.58%,rgba(114,251,249,1.00) 100%);
+    background-image: -moz-linear-gradient(183deg,rgba(255,255,255,1.00) 16.58%,rgba(114,251,249,1.00) 100%);
+    background-image: -o-linear-gradient(183deg,rgba(255,255,255,1.00) 16.58%,rgba(114,251,249,1.00) 100%);
+    background-image: linear-gradient(267deg,rgba(255,255,255,1.00) 16.58%,rgba(114,251,249,1.00) 100%);
+    text-align: left;
+    font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+    margin-left: 0px;
+}
+.card #cuoi a {
+    margin-left: 211px;
+    font-size: 20px;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: rgba(14,158,149,1.00);
+}
